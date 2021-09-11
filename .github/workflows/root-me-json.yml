@@ -1,0 +1,30 @@
+name: Root-Me JSON Stats
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  root-me-stats:
+    name: Get Root-Me Personal Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v4
+        id: root-me-result
+        env:
+          ROOT_ME_API_KEY: ${{ secrets.ROOT_ME_API_KEY }}
+        with:
+          script: |
+            const url = "https://api.www.root-me.org/auteurs/96411"
+            document.cookie += `; api_key=${ROOT_ME_API_KEY}`;
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", url, false);
+            xhr.onreadystatechange = function() {
+              if (xhr.readyState === 4) {
+                console.log(xhr.response);
+              }
+            }
+            xhr.withCredentials = true;
+            xhr.send();
+          result-encoding: string
+      - name: Get Result
+        run: echo "${{steps.root-me-result.outputs.result}}"
