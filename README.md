@@ -73,6 +73,9 @@ Python                   3 repos             █░░░░░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrraph&langs_count=10&layout=compact&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# **⚡ Recent Activity**
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2739](https://github.com/clap-rs/clap/issues/2739) in [clap-rs/clap](https://github.com/clap-rs/clap)
 2. ❗️ Opened issue [#2739](https://github.com/clap-rs/clap/issues/2739) in [clap-rs/clap](https://github.com/clap-rs/clap)
