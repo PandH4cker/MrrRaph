@@ -13,6 +13,6 @@ jobs:
         with:
           url: 'https://api.www.root-me.org/auteurs/96411'
           method: 'GET'
-          customHeaders: '{Cookie: api_key=${{ secrets.ROOT_ME_API_KEY }}}'
+          customHeaders: '{"Cookie": "api_key=${{ secrets.ROOT_ME_API_KEY }}"}'
       - name: Get Result
         run: echo "${{steps.root-me-result.outputs.response}}"
