@@ -8,6 +8,7 @@ jobs:
     name: Get Root-Me Personal Stats
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: fjogeleit/http-request-action@master
         id: root-me-result
         with:
@@ -20,3 +21,12 @@ jobs:
         with:
           name: "root-me-stats.json"
           json: ${{ steps.root-me-result.outputs.response }}
+      - name: Commit JSON File
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Add changes" -a
+      - uses: ad-m/github-push-action@master
+        name: Push changes
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
