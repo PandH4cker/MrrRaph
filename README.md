@@ -4,6 +4,11 @@
 
 <img src="https://github.com/MrrRaph/MrrRaph/blob/master/header.png?raw=true">
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+)](https://discordapp.com/users/MrRaph#4214/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeldray/)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=CyberSecurity+Engineer+%F0%9F%92%BB;Freelance+Fullstack+Developer)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
