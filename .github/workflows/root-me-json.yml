@@ -27,3 +27,5 @@ jobs:
         with:
           commit_message: Updated Root-Me stats
           skip_dirty_check: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
