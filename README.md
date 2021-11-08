@@ -82,10 +82,10 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 # **⚡ Recent Activity**
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 🗣 Commented on [#2739](https://github.com/clap-rs/clap/issues/2739) in [clap-rs/clap](https://github.com/clap-rs/clap)
 2. ❗️ Opened issue [#2739](https://github.com/clap-rs/clap/issues/2739) in [clap-rs/clap](https://github.com/clap-rs/clap)
 3. ❌ Closed PR [#1](https://github.com/MrrRaph/epicgames-freegames-heroku/pull/1) in [MrrRaph/epicgames-freegames-heroku](https://github.com/MrrRaph/epicgames-freegames-heroku)
 4. 💪 Opened PR [#1](https://github.com/MrrRaph/epicgames-freegames-heroku/pull/1) in [MrrRaph/epicgames-freegames-heroku](https://github.com/MrrRaph/epicgames-freegames-heroku)
 5. 🗣 Commented on [#16](https://github.com/davidjameshowell/epicgames-freegames-heroku/issues/16) in [davidjameshowell/epicgames-freegames-heroku](https://github.com/davidjameshowell/epicgames-freegames-heroku)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
