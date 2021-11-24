@@ -83,12 +83,12 @@ JavaScript               3 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [MrrRaph/GhidraScripts](https://github.com/MrrRaph/GhidraScripts)
-2. ⭐ Starred [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
-3. 📔 Created new repository [MrrRaph/SortedCars](https://github.com/MrrRaph/SortedCars)
-4. 📔 Created new repository [MrrRaph/Calculette](https://github.com/MrrRaph/Calculette)
-5. 
+1. ⭐ Starred [MrrRaph/CaesarCipher](https://github.com/MrrRaph/CaesarCipher)
+2. ⭐ Starred [MrrRaph/VigenereCipher](https://github.com/MrrRaph/VigenereCipher)
+3. ⭐ Starred [MrrRaph/CudaMatrixMultiplication](https://github.com/MrrRaph/CudaMatrixMultiplication)
+4. ⭐ Starred [MrrRaph/PandReaker](https://github.com/MrrRaph/PandReaker)
+5. 📔 Created new repository [MrrRaph/GhidraScripts](https://github.com/MrrRaph/GhidraScripts)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 24th, 2021, 3:05:25 PM
+Last Updated: Wednesday, November 24th, 2021, 3:39:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
