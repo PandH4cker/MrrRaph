@@ -83,9 +83,11 @@ JavaScript               3 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [MrrRaph/crate-template](https://github.com/MrrRaph/crate-template) from [jonas-schievink/crate-template](https://github.com/jonas-schievink/crate-template)
-2. 🔱 Forked [MrrRaph/rails](https://github.com/MrrRaph/rails) from [rails/rails](https://github.com/rails/rails)
+1. 🔱 Forked [MrrRaph/clap](https://github.com/MrrRaph/clap) from [clap-rs/clap](https://github.com/clap-rs/clap)
+2. 🔱 Forked [MrrRaph/shodan-rust](https://github.com/MrrRaph/shodan-rust) from [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust)
+3. 🔱 Forked [MrrRaph/crate-template](https://github.com/MrrRaph/crate-template) from [jonas-schievink/crate-template](https://github.com/jonas-schievink/crate-template)
+4. 🔱 Forked [MrrRaph/rails](https://github.com/MrrRaph/rails) from [rails/rails](https://github.com/rails/rails)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 13th, 2022, 1:45:03 AM
+Last Updated: Sunday, March 13th, 2022, 2:26:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
