@@ -13,6 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=CyberSecurity+Engineer+%F0%9F%92%BB;Freelance+Fullstack+Developer)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -62,7 +64,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 00:38:41 UTC
+ Last Updated on 08/05/2022 00:40:11 UTC
 <!--END_SECTION:waka-->
 
 ## **📊 How popular this page is?**
