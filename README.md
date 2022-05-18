@@ -89,8 +89,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 2. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
 3. 🔱 Forked [MrrRaph/clap](https://github.com/MrrRaph/clap) from [clap-rs/clap](https://github.com/clap-rs/clap)
 4. 🔱 Forked [MrrRaph/shodan-rust](https://github.com/MrrRaph/shodan-rust) from [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust)
-5. 🔱 Forked [MrrRaph/crate-template](https://github.com/MrrRaph/crate-template) from [jonas-schievink/crate-template](https://github.com/jonas-schievink/crate-template)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 18th, 2022, 12:31:20 AM
+Last Updated: Wednesday, May 18th, 2022, 2:46:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
