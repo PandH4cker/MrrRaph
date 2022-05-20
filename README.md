@@ -88,8 +88,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 1. 📔 Created new repository [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
 2. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
 3. 🔱 Forked [MrrRaph/clap](https://github.com/MrrRaph/clap) from [clap-rs/clap](https://github.com/clap-rs/clap)
-4. 🔱 Forked [MrrRaph/shodan-rust](https://github.com/MrrRaph/shodan-rust) from [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 20th, 2022, 12:37:55 AM
+Last Updated: Friday, May 20th, 2022, 2:45:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
