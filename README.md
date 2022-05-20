@@ -85,10 +85,10 @@ JavaScript               3 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
-2. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
-3. 🔱 Forked [MrrRaph/clap](https://github.com/MrrRaph/clap) from [clap-rs/clap](https://github.com/clap-rs/clap)
+1. 💬 Commented on [#85](https://github.com/anouarbensaad/vulnx/issues/85#issuecomment-1133242605) in [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx)
+2. 📔 Created new repository [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
+3. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 20th, 2022, 7:06:00 PM
+Last Updated: Friday, May 20th, 2022, 7:32:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
