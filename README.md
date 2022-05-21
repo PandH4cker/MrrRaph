@@ -85,10 +85,11 @@ JavaScript               3 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#85](https://github.com/anouarbensaad/vulnx/issues/85#issuecomment-1133242605) in [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx)
-2. 📔 Created new repository [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
-3. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
+1. 🔱 Forked [MrrRaph/Exploit-POCs](https://github.com/MrrRaph/Exploit-POCs) from [0xcc-labs/Exploit-POCs](https://github.com/0xcc-labs/Exploit-POCs)
+2. 💬 Commented on [#85](https://github.com/anouarbensaad/vulnx/issues/85#issuecomment-1133242605) in [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx)
+3. 📔 Created new repository [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
+4. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 20th, 2022, 11:37:42 PM
+Last Updated: Saturday, May 21st, 2022, 12:34:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
