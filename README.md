@@ -85,12 +85,12 @@ JavaScript               3 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
-2. 🔱 Forked [MrrRaph/Exploit-POCs](https://github.com/MrrRaph/Exploit-POCs) from [0xcc-labs/Exploit-POCs](https://github.com/0xcc-labs/Exploit-POCs)
-3. 💬 Commented on [#85](https://github.com/anouarbensaad/vulnx/issues/85#issuecomment-1133242605) in [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx)
-4. 📔 Created new repository [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)
-5. 🔱 Forked [MrrRaph/Auto_Wordlists](https://github.com/MrrRaph/Auto_Wordlists) from [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
+1. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
+2. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
+3. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
+4. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
+5. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 3:06:43 PM
+Last Updated: Tuesday, June 7th, 2022, 3:39:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
