@@ -85,12 +85,12 @@ JavaScript               3 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
-2. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
-3. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
-4. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
-5. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)
+1. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
+2. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
+3. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
+4. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
+5. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 4th, 2023, 1:14:37 PM
+Last Updated: Wednesday, January 4th, 2023, 1:34:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
