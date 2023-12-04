@@ -13,41 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=CyberSecurity+Engineer+%F0%9F%92%BB;Freelance+Fullstack+Developer)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                410 commits         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌃 Evening                769 commits         ████████████░░░░░░░░░░░░░   48.83 % 
-🌙 Night                  243 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Tuesday                  150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Wednesday                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 242 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Saturday                 255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Sunday                   313 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -61,7 +26,7 @@ HCL                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 00:40:10 UTC
+ Last Updated on 04/12/2023 00:38:53 UTC
 <!--END_SECTION:waka-->
 
 ## **📊 How popular this page is?**
