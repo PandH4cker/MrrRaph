@@ -89,5 +89,5 @@ HCL                      2 repos             █░░░░░░░░░░�
 5. ❗️ Opened issue [#1004](https://github.com/lief-project/LIEF/issues/1004) in [lief-project/LIEF](https://github.com/lief-project/LIEF)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 14th, 2023, 2:20:21 AM
+Last Updated: Thursday, December 14th, 2023, 2:38:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
