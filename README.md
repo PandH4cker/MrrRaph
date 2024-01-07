@@ -85,9 +85,9 @@ HCL                      2 repos             █░░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
 2. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
 3. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
-4. ✔️ Closed issue [#174](https://github.com/Orange-Cyberdefense/GOAD/issues/174) in [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
-5. ❗️ Opened issue [#174](https://github.com/Orange-Cyberdefense/GOAD/issues/174) in [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
+4. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
+5. ✔️ Closed issue [#174](https://github.com/Orange-Cyberdefense/GOAD/issues/174) in [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 7th, 2024, 12:36:43 AM
+Last Updated: Sunday, January 7th, 2024, 1:54:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
