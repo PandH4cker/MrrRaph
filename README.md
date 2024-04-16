@@ -13,6 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=glory&size=23&multiline=true&height=65&lines=CyberSecurity+Engineer+%F0%9F%92%BB;Freelance+Fullstack+Developer)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -59,7 +61,7 @@ HCL                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2024 03:06:14 UTC
+ Last Updated on 16/04/2024 00:36:35 UTC
 <!--END_SECTION:waka-->
 
 ## **📊 How popular this page is?**
