@@ -82,12 +82,12 @@ HCL                      2 repos             █░░░░░░░░░░�
 # **⚡ Recent Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MrrRaph/Havoc](https://github.com/MrrRaph/Havoc)<br>
-2. 🔱 Forked [MrrRaph/Havoc](https://github.com/MrrRaph/Havoc) from [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)<br>
-3. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
+1. 💪 Opened PR [#503](https://github.com/HavocFramework/Havoc/pull/503) in [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)<br>
+2. ⬆️ Pushed 1 commit(s) to [MrrRaph/Havoc](https://github.com/MrrRaph/Havoc)<br>
+3. 🔱 Forked [MrrRaph/Havoc](https://github.com/MrrRaph/Havoc) from [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc)<br>
 4. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
 5. ⬆️ Pushed 1 commit(s) to [MrrRaph/MrrRaph](https://github.com/MrrRaph/MrrRaph)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 5th, 2024, 2:34:00 PM
+Last Updated: Monday, August 5th, 2024, 3:08:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
